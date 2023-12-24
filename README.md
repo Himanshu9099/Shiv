@@ -1,3 +1,3 @@
 # Shiv
 This is my first repository.
-Author:-Himansh
+Author:-Himanshu singh
